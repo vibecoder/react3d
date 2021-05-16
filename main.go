@@ -1,4 +1,4 @@
-package main
+package quoteV4
 
 import (
 	quoteV3 "rsc.io/quote/v3"
